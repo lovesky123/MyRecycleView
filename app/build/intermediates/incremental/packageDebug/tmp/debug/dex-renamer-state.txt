@@ -1,0 +1,4 @@
+#Fri Mar 20 21:19:53 CST 2020
+base.0=E\:\\AS_WORK3.3\\MyRecycleView\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
